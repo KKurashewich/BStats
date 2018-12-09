@@ -1,3 +1,3 @@
 ﻿function openTab(evt, tabButtons) {
-
-}
+            
+        }
