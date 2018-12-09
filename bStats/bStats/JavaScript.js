@@ -1,3 +1,3 @@
-﻿function openTab(tabButtons) {
-    location.replace("../" + tabButtons + ".html");
-}
+﻿function openTab(evt, tabButtons) {
+            
+        }
